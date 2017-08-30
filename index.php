@@ -2,6 +2,7 @@
 <html lang="pt_br">
 <head>
 	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 	<title>Nivia - Fisioterapia Pélvica em São Paulo</title>
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 </head>
@@ -46,9 +47,45 @@
 	</nav>
 </div>
 
-	<div class="container">
-		<h1>Fisioterapia Pélvica</h1>
-		<p>Tratamento e prevenção de disfunções da região pélvica sem cirurgia</p>
-	</div>	
+	<!-- HERO -->
+	<div class="hero">
+		<div class="container">
+			<div class="hero-info">
+				<h1>Fisioterapia Pélvica</h1>
+				<p>Tratamento e prevenção de disfunções da região pélvica sem cirurgia</p>
+				<a href="./contato" class="btn btn-dark">Agende uma avaliação</a>
+			</div>
+		</div>
+	</div>
+	<!-- Newsletter -->
+	<div class="newsletter-fullblock">
+		<div class="container">
+			<div class="row">
+				<div class="col-xl-4">
+					<span>Receba nossas dicas semanais no seu e-mail para ter uma vida mais saudável</span>
+				</div>
+				<div class="col-xl-6">
+					<form class="form-inline">
+						<div class="form-group">
+							<input type="email" name="email" placeholder="Digite seu e-mail principal">
+						</div>
+						<div class="form-check">
+							<label class="form-check-label">
+							<input type="checkbox" class="form-check-input">
+							Homem
+							</label>
+							<label class="form-check-label">
+							<input type="checkbox" class="form-check-input">
+							Mulher
+							</label>
+						</div>
+							<button type="submit" class="btn btn-primary">Receber dicas</button>
+					</form>
+				</div>
+			</div>
+
+		</div>
+	</div>
+
 </body>
 </html>

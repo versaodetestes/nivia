@@ -48,17 +48,18 @@
 </div>
 
 	<!-- HERO -->
-	<div class="hero">
+	<div class="hero d-flex align-items-center">
 		<div class="container">
-			<div class="hero-info">
+			<div class="hero-info ">
 				<h1>Fisioterapia Pélvica</h1>
 				<p>Tratamento e prevenção de disfunções da região pélvica sem cirurgia</p>
 				<a href="./contato" class="btn btn-dark">Agende uma avaliação</a>
 			</div>
 		</div>
 	</div>
+
 	<!-- Newsletter -->
-	<div class="newsletter-fullblock">
+	<div class="home-newsletter">
 		<div class="container">
 			<div class="row">
 				<div class="col-xl-4">
@@ -67,7 +68,7 @@
 				<div class="col-xl-6">
 					<form class="form-inline">
 						<div class="form-group">
-							<input type="email" name="email" placeholder="Digite seu e-mail principal">
+							<input type="email" class="form-control" name="email" placeholder="Digite seu e-mail principal">
 						</div>
 						<div class="form-check">
 							<label class="form-check-label">
@@ -84,6 +85,103 @@
 				</div>
 			</div>
 
+		</div>
+	</div>
+	<!-- FIM NEWSLETTER -->
+
+	<!-- BLOCK FEATURE -->
+	<div class="home-about">
+		<div class="container">
+				<div class="row">
+
+					<div class="col-md-4">
+						<h2>Fisioterapia Pélvica</h2>
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos consequatur nostrum eos, necessitatibus animi, corporis voluptatibus magnam cupiditate cum accusamus doloremque.
+						</p>
+						<a href="./especialidades/fisioterapia-pelvica" class="btn btn-link">Saiba mais</a>
+					</div>
+					<div class="col-md-3">
+						<img src="https://dummyimage.com/250x300/dedede/6b636b.gif&text=foto+nivia" class="img-fluid">
+					</div>
+					<div class="col-md-4">
+						<h2>Dra. Nivia Vinhola</h2>
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos consequatur nostrum eos, necessitatibus animi, corporis voluptatibus magnam cupiditate cum accusamus doloremque.
+						</p>
+						<a href="./sobre" class="btn btn-link">Saiba mais</a>
+					</div>
+				</div>
+			</div>	
+	</div>
+
+	<div class="home-especialidades">
+		<div class="container">
+			<div class="row">
+				<h3>Especialidades</h3>
+				<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, aliquam, non! Adipisci suscipit odio ipsum.
+			</div>
+			<div class="row">
+				<div class="col-md-3">
+					<div class="block-espec">
+						<img src="https://dummyimage.com/200x200/dedede/6b636b.gif&text=especialidade" class="img-fluid">
+						<h4>Incontinência Urinária</h4>
+					</div>					
+				</div>
+				<div class="col-md-3">
+					<div class="block-espec">
+						<img src="https://dummyimage.com/200x200/dedede/6b636b.gif&text=especialidade" class="img-fluid">
+					<h4>Incontinência Urinária</h4>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="block-espec">
+						<img src="https://dummyimage.com/200x200/dedede/6b636b.gif&text=especialidade" class="img-fluid">
+						<h4>Incontinência Urinária</h4>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="block-espec">
+						<img src="https://dummyimage.com/200x200/dedede/6b636b.gif&text=especialidade" class="img-fluid">
+						<h4>Incontinência Urinária</h4>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="home-especialidades">
+		<div class="container">
+			<div class="row">
+				<h3>Metodologias</h3>
+				<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, aliquam, non! Adipisci suscipit odio ipsum.
+			</div>
+			<div class="row">
+				<div class="col-md-3">
+					<div class="block-espec">
+						<img src="https://dummyimage.com/200x200/dedede/6b636b.gif&text=metodologia" class="img-fluid">
+						<h4>Incontinência Urinária</h4>
+					</div>					
+				</div>
+				<div class="col-md-3">
+					<div class="block-espec">
+						<img src="https://dummyimage.com/200x200/dedede/6b636b.gif&text=metodologia" class="img-fluid">
+					<h4>Incontinência Urinária</h4>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="block-espec">
+						<img src="https://dummyimage.com/200x200/dedede/6b636b.gif&text=metodologia" class="img-fluid">
+						<h4>Incontinência Urinária</h4>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="block-espec">
+						<img src="https://dummyimage.com/200x200/dedede/6b636b.gif&text=metodologia" class="img-fluid">
+						<h4>Incontinência Urinária</h4>
+					</div>
+				</div>
+			</div>
 		</div>
 	</div>
 

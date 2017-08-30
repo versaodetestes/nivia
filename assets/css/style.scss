@@ -1,1 +1,18 @@
 @import "bootstrap/bootstrap";
+
+// COLORS
+$grey-light: #f4f4f4;
+
+// HERO
+.hero {
+	height: 500px;
+}
+// HOME
+// NEWSLETTER
+.home-newsletter {
+	padding-bottom: 50px;
+}
+// ABOUT
+.home-about {
+	background: $grey-light;
+}

@@ -12,7 +12,21 @@ $grey-light: #f4f4f4;
 .home-newsletter {
 	padding-bottom: 50px;
 }
+.newsletter {
+	background: #fff;
+	box-shadow: 0 0 20px rgba(135,165,248,0.3);
+	padding: 20px;
+	border-radius: 5px;
+	width: 100%;
+}
+.news-title {
+	font-size: 25px;
+}
+.news-desc {
+	font-size: 18px;
+	display: inline-block;
+}
 // ABOUT
 .home-about {
-	background: $grey-light;
+	
 }

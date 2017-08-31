@@ -41,6 +41,9 @@
           <a class="dropdown-item" href="#">Something else here</a>
         </div>
       </li>
+      <li class="nav-item">
+      	<a href="tel:+551150831743">(11) 5083-1743</a>
+      </li>
 
 	    </ul>
 	  </div>
@@ -51,8 +54,8 @@
 	<div class="hero d-flex align-items-center">
 		<div class="container">
 			<div class="hero-info ">
-				<h1>Fisioterapia Pélvica</h1>
-				<p>Tratamento e prevenção de disfunções da região pélvica sem cirurgia</p>
+				<h1 class="display-1">Fisioterapia Pélvica</h1>
+				<p class="lead">Tratamento e prevenção de disfunções da região pélvica sem cirurgia</p>
 				<a href="./contato" class="btn btn-dark">Agende uma avaliação</a>
 			</div>
 		</div>
@@ -61,28 +64,35 @@
 	<!-- Newsletter -->
 	<div class="home-newsletter">
 		<div class="container">
-			<div class="row">
-				<div class="col-xl-4">
-					<span>Receba nossas dicas semanais no seu e-mail para ter uma vida mais saudável</span>
+				<div class="newsletter">
+			<div class="row justify-content-between">
+
+					<div class="col-6">
+						<span class="news-title">Newsletter</span><br>
+						<span class="news-desc">Receba nossas dicas semanais no seu e-mail<br>para ter uma vida mais saudável</span>
+					</div>
+					<div class="col-5">
+						<form class="form-inline">
+							
+									<label for="email" class="col-form-label">Digite seu Email</label>
+									<input type="email" id="email" class="form-control" name="email" placeholder="Digite seu e-mail principal">
+
+									<div class="form-check news-check">
+									<label class="form-check-label">
+									<input type="checkbox" class="form-check-input">
+									 Homem
+									</label>
+									<label class="form-check-label">
+									<input type="checkbox" class="form-check-input">
+									 Mulher
+									</label>
+								</div>
+		
+								<button type="submit" class="btn btn-primary">Receber dicas</button>
+						</form>
+					</div>
 				</div>
-				<div class="col-xl-6">
-					<form class="form-inline">
-						<div class="form-group">
-							<input type="email" class="form-control" name="email" placeholder="Digite seu e-mail principal">
-						</div>
-						<div class="form-check">
-							<label class="form-check-label">
-							<input type="checkbox" class="form-check-input">
-							Homem
-							</label>
-							<label class="form-check-label">
-							<input type="checkbox" class="form-check-input">
-							Mulher
-							</label>
-						</div>
-							<button type="submit" class="btn btn-primary">Receber dicas</button>
-					</form>
-				</div>
+
 			</div>
 
 		</div>
@@ -90,17 +100,20 @@
 	<!-- FIM NEWSLETTER -->
 
 	<!-- BLOCK FEATURE -->
-	<div class="home-about">
 		<div class="container">
-				<div class="row">
 
-					<div class="col-md-4">
-						<h2>Fisioterapia Pélvica</h2>
+				
+				<div class="row justify-content-center">
+					<div class="col-md-10">
+						<h2 class="display-4">Tratamento para Fisioterapia Pélvica</h2>
 						<p>
 							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos consequatur nostrum eos, necessitatibus animi, corporis voluptatibus magnam cupiditate cum accusamus doloremque.
 						</p>
-						<a href="./especialidades/fisioterapia-pelvica" class="btn btn-link">Saiba mais</a>
+						<a href="./especialidades/fisioterapia-pelvica" class="btn btn-primary">Saiba mais</a>
 					</div>
+				</div>
+
+				<div class="row justify-content-center">
 					<div class="col-md-3">
 						<img src="https://dummyimage.com/250x300/dedede/6b636b.gif&text=foto+nivia" class="img-fluid">
 					</div>
@@ -112,9 +125,10 @@
 						<a href="./sobre" class="btn btn-link">Saiba mais</a>
 					</div>
 				</div>
-			</div>	
-	</div>
+</div>	
 
+
+	<!-- ESPECIALIDADES -->
 	<div class="home-especialidades">
 		<div class="container">
 			<div class="row">
@@ -150,6 +164,7 @@
 		</div>
 	</div>
 
+	<!-- METODOLOGIAS -->
 	<div class="home-especialidades">
 		<div class="container">
 			<div class="row">
@@ -181,6 +196,15 @@
 						<h4>Incontinência Urinária</h4>
 					</div>
 				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Blog -->
+	<div class="home-blog">
+		<div class="container">
+			<div>
+				
 			</div>
 		</div>
 	</div>

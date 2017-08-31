@@ -14,8 +14,8 @@
 	    <span class="navbar-toggler-icon"></span>
 	  </button>
 
-	  <div class="collapse navbar-collapse float-right" id="navbarSupportedContent">
-	    <ul class="navbar-nav mr-auto">
+	  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+	    <ul class="nav justify-content-end">
 	      <li class="nav-item active">
 	        <a class="nav-link" href="#">Home</a>
 	      </li>
@@ -203,8 +203,57 @@
 	<!-- Blog -->
 	<div class="home-blog">
 		<div class="container">
-			<div>
-				
+			<div class="row justify-content-between">
+				<div class="col-md-5">
+
+					<h3>Últimas do blog</h3>
+
+					<p>	Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero atque voluptatem iure officiis magnam fugit</p>
+					<div class="blog-home-card">
+						<a href="#"><h4 class="blog-home-title">Post title</h4></a>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus dolore eius officiis.</p>
+						<a href="#">Leia mais</a>
+					</div>
+
+					<div class="blog-home-card">
+						<a href="#"><h4 class="blog-home-title">Post title</h4></a>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus dolore eius officiis.</p>
+						<a href="#">Leia mais</a>
+					</div>
+
+					<div class="blog-home-card">
+						<a href="#"><h4 class="blog-home-title">Post title</h4></a>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus dolore eius officiis.</p>
+						<a href="#">Leia mais</a>
+					</div>
+					
+				</div>
+
+				<div class="col-md-4">
+				<div class="newslletter">
+					<h3>Newsletter</h3>
+					<span class="news-desc">Receba nossas dicas semanais no seu e-mail para ter uma vida mais saudável</span>
+						<form class="form">
+							
+									<label for="email" class="col-form-label">Digite seu Email</label>
+									<input type="email" id="email" class="form-control" name="email" placeholder="Digite seu e-mail principal">
+
+									<div class="form-check news-check">
+									<label class="form-check-label">
+									<input type="checkbox" class="form-check-input">
+									 Homem
+									</label>
+									<label class="form-check-label">
+									<input type="checkbox" class="form-check-input">
+									 Mulher
+									</label>
+								</div>
+		
+								<button type="submit" class="btn btn-primary">Receber dicas</button>
+						</form>
+				</div>
+					
+				</div>
 			</div>
 		</div>
 	</div>

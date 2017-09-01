@@ -15,7 +15,7 @@
 	  </button>
 
 	  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-	    <ul class="nav justify-content-end">
+	    <ul class="navbar-nav ml-auto ">
 	      <li class="nav-item active">
 	        <a class="nav-link" href="#">Home</a>
 	      </li>
@@ -197,6 +197,7 @@
 					</div>
 				</div>
 			</div>
+			<hr>
 		</div>
 	</div>
 

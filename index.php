@@ -8,46 +8,45 @@
 </head>
 <body>
 <div class="header">
-	<nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
-	  <a class="navbar-brand" href="#">Dra. Nivia Vinhola</a>
-	  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-	    <span class="navbar-toggler-icon"></span>
-	  </button>
 
-	  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-	    <ul class="navbar-nav ml-auto ">
-	      <li class="nav-item active">
-	        <a class="nav-link" href="#">Home</a>
+		<nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
+			<div class="container">
+		  <a class="navbar-brand" href="#">Dra. Nivia Vinhola</a>
+		  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+		    <span class="navbar-toggler-icon"></span>
+		  </button>
+
+		  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+		    <ul class="nav-menu navbar-nav ml-auto">
+		      <li class="nav-item active">
+		        <a class="nav-link" href="#">Home</a>
+		      </li>
+		      <li class="nav-item active">
+		        <a class="nav-link" href="#">Especialidades</a>
+		      </li>
+		      <li class="nav-item active">
+		        <a class="nav-link" href="#">Metodologia</a>
+		      </li>
+		      <li class="nav-item active">
+		        <a class="nav-link" href="#">Sobre</a>
+		      </li>
+		      <li class="nav-item active">
+		        <a class="nav-link" href="#">Blog</a>
+		      </li>
+		      <li class="nav-item active">
+		        <a class="nav-link" href="#">Contato</a>
+		      </li>
+
+	      <li class="nav-item nav-tel">
+	      	<a href="tel:+551150831743" class="btn btn-secondary">(11) 5083-1743</a>
 	      </li>
 
-<li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-         Especialidades
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="#">Action</a>
-          <a class="dropdown-item" href="#">Another action</a>
-          <a class="dropdown-item" href="#">Something else here</a>
-        </div>
-      </li>
+		    </ul>
+		  </div>
+		  	</div>
+		</nav>	
 
-<li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-         Metodologia
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="#">Action</a>
-          <a class="dropdown-item" href="#">Another action</a>
-          <a class="dropdown-item" href="#">Something else here</a>
-        </div>
-      </li>
-      <li class="nav-item">
-      	<a href="tel:+551150831743">(11) 5083-1743</a>
-      </li>
 
-	    </ul>
-	  </div>
-	</nav>
 </div>
 
 	<!-- HERO -->
@@ -103,9 +102,9 @@
 		<div class="container">
 
 				
-				<div class="row justify-content-center">
+				<div class="row justify-content-center home-tratamento">
 					<div class="col-md-10">
-						<h2 class="display-4">Tratamento para Fisioterapia Pélvica</h2>
+						<h2 class="display-4">Tratamento com Fisioterapia Pélvica</h2>
 						<p>
 							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos consequatur nostrum eos, necessitatibus animi, corporis voluptatibus magnam cupiditate cum accusamus doloremque.
 						</p>
@@ -113,7 +112,7 @@
 					</div>
 				</div>
 
-				<div class="row justify-content-center">
+				<div class="row justify-content-center home-about">
 					<div class="col-md-3">
 						<img src="https://dummyimage.com/250x300/dedede/6b636b.gif&text=foto+nivia" class="img-fluid">
 					</div>
@@ -131,33 +130,36 @@
 	<!-- ESPECIALIDADES -->
 	<div class="home-especialidades">
 		<div class="container">
-			<div class="row">
+			<div class="row ">
+			<div class="col-md-6 ">
 				<h3>Especialidades</h3>
-				<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, aliquam, non! Adipisci suscipit odio ipsum.
+				<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, aliquam, non! Adipisci suscipit odio ipsum.</p>
+			</div>
+				
 			</div>
 			<div class="row">
 				<div class="col-md-3">
 					<div class="block-espec">
 						<img src="https://dummyimage.com/200x200/dedede/6b636b.gif&text=especialidade" class="img-fluid">
-						<h4>Incontinência Urinária</h4>
+						<h4 class="home-service-title">Incontinência Urinária</h4>
 					</div>					
 				</div>
 				<div class="col-md-3">
 					<div class="block-espec">
 						<img src="https://dummyimage.com/200x200/dedede/6b636b.gif&text=especialidade" class="img-fluid">
-					<h4>Incontinência Urinária</h4>
+					<h4 class="home-service-title">Incontinência Urinária</h4>
 					</div>
 				</div>
 				<div class="col-md-3">
 					<div class="block-espec">
 						<img src="https://dummyimage.com/200x200/dedede/6b636b.gif&text=especialidade" class="img-fluid">
-						<h4>Incontinência Urinária</h4>
+						<h4 class="home-service-title">Incontinência Urinária</h4>
 					</div>
 				</div>
 				<div class="col-md-3">
 					<div class="block-espec">
 						<img src="https://dummyimage.com/200x200/dedede/6b636b.gif&text=especialidade" class="img-fluid">
-						<h4>Incontinência Urinária</h4>
+						<h4 class="home-service-title">Incontinência Urinária</h4>
 					</div>
 				</div>
 			</div>
@@ -167,33 +169,36 @@
 	<!-- METODOLOGIAS -->
 	<div class="home-especialidades">
 		<div class="container">
-			<div class="row">
+			<div class="row ">
+			<div class="col-md-6">
 				<h3>Metodologias</h3>
-				<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, aliquam, non! Adipisci suscipit odio ipsum.
+				<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, aliquam, non! Adipisci suscipit odio ipsum.</p>
+			</div>
+				
 			</div>
 			<div class="row">
 				<div class="col-md-3">
 					<div class="block-espec">
 						<img src="https://dummyimage.com/200x200/dedede/6b636b.gif&text=metodologia" class="img-fluid">
-						<h4>Incontinência Urinária</h4>
+						<h4 class="home-service-title">Incontinência Urinária</h4>
 					</div>					
 				</div>
 				<div class="col-md-3">
 					<div class="block-espec">
 						<img src="https://dummyimage.com/200x200/dedede/6b636b.gif&text=metodologia" class="img-fluid">
-					<h4>Incontinência Urinária</h4>
+					<h4 class="home-service-title">Incontinência Urinária</h4>
 					</div>
 				</div>
 				<div class="col-md-3">
 					<div class="block-espec">
 						<img src="https://dummyimage.com/200x200/dedede/6b636b.gif&text=metodologia" class="img-fluid">
-						<h4>Incontinência Urinária</h4>
+						<h4 class="home-service-title">Incontinência Urinária</h4>
 					</div>
 				</div>
 				<div class="col-md-3">
 					<div class="block-espec">
 						<img src="https://dummyimage.com/200x200/dedede/6b636b.gif&text=metodologia" class="img-fluid">
-						<h4>Incontinência Urinária</h4>
+						<h4 class="home-service-title">Incontinência Urinária</h4>
 					</div>
 				</div>
 			</div>
@@ -258,6 +263,27 @@
 			</div>
 		</div>
 	</div>
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-4">
+					<div class="nav">
+						<ul>
+							<li><a href="#">Agendar consulta</a></li>
+							<li><a href="#">Sobre</a></li>
+							<li><a href="#">Blog</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-md-4">
+					
+				</div>
+				<div class="col-md-4">
+					
+				</div>
+			</div>
+		</div>
+	</footer>
 
 </body>
 </html>

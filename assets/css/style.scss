@@ -3,6 +3,12 @@
 // COLORS
 $grey-light: #f4f4f4;
 
+// NAV 
+.nav-menu {
+	li {
+		margin-left: 25px;
+	}
+}
 // HERO
 .hero {
 	height: 500px;
@@ -28,11 +34,16 @@ $grey-light: #f4f4f4;
 }
 // ABOUT
 .home-about {
-	
+	padding-top: 50px;
 }
-
+// Serviços
 .home-especialidades {
 	padding-top: 50px;
+}
+
+.home-service-title {
+	font-size:18px;
+	margin-top: 20px;
 }
 // BLOG
 .home-blog {

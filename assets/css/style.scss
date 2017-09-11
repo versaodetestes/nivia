@@ -13,8 +13,11 @@ $grey-light: #f4f4f4;
 .hero {
 	height: 500px;
 }
+.hero-especialidades {
+	height: 350px;
+}
 // HOME
-// NEWSLETTER
+
 .home-newsletter {
 	padding-bottom: 50px;
 }
@@ -25,6 +28,7 @@ $grey-light: #f4f4f4;
 	border-radius: 5px;
 	width: 100%;
 }
+
 .news-title {
 	font-size: 25px;
 }
@@ -32,11 +36,9 @@ $grey-light: #f4f4f4;
 	font-size: 18px;
 	display: inline-block;
 }
-// ABOUT
 .home-about {
 	padding-top: 50px;
 }
-// Serviços
 .home-especialidades {
 	padding-top: 50px;
 }
@@ -45,10 +47,21 @@ $grey-light: #f4f4f4;
 	font-size:18px;
 	margin-top: 20px;
 }
+
 // BLOG
 .home-blog {
 	padding-top: 50px;
 }
 .blog-home-card {
 	margin-bottom: 30px;
+}
+
+// SOBRE
+.about-nivia {
+	padding-top:60px;
+}
+
+// ESPECIALIDADES
+.card-especialidades {
+	margin-bottom: 35px;
 }

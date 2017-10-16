@@ -1,10 +1,10 @@
 	<!-- HERO -->
-	<div class="hero d-flex align-items-center">
+	<div class="hero hero-home d-flex align-items-center">
 		<div class="container">
-			<div class="hero-info ">
-				<h1 class="display-1">Fisioterapia Pélvica</h1>
+			<div class="hero-info">
+				<h1>Fisioterapia Pélvica</h1>
 				<p class="lead">Tratamento e prevenção de disfunções da região pélvica sem cirurgia</p>
-				<a href="./contato" class="btn btn-dark">Agende uma avaliação</a>
+				<a href="./contato" class="btn btn-primary">Agende uma avaliação</a>
 			</div>
 		</div>
 	</div>
@@ -52,8 +52,8 @@
 
 				
 				<div class="row justify-content-center home-tratamento">
-					<div class="col-md-10">
-						<h2 class="display-4">Tratamento com Fisioterapia Pélvica</h2>
+					<div class="col-md-8">
+						<h2>Tratamento com Fisioterapia Pélvica</h2>
 						<p>
 							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos consequatur nostrum eos, necessitatibus animi, corporis voluptatibus magnam cupiditate cum accusamus doloremque.
 						</p>
@@ -61,16 +61,18 @@
 					</div>
 				</div>
 
-				<div class="row justify-content-center home-about">
+				<div class="row justify-content-center align-items-center home-about">
 					<div class="col-md-3">
 						<img src="https://dummyimage.com/250x300/dedede/6b636b.gif&text=foto+nivia" class="img-fluid">
 					</div>
 					<div class="col-md-4">
-						<h2>Dra. Nivia Vinhola</h2>
-						<p>
+						<div class="home-about_info">
+						<h3 class="text-white">Dra. Nivia Vinhola</h3>
+						<p class="text-white">
 							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos consequatur nostrum eos, necessitatibus animi, corporis voluptatibus magnam cupiditate cum accusamus doloremque.
 						</p>
-						<a href="./sobre" class="btn btn-link">Saiba mais</a>
+						<a href="./sobre" class="btn btn-inverse">Saiba mais</a>
+						</div>
 					</div>
 				</div>
 </div>	
@@ -81,7 +83,7 @@
 		<div class="container">
 			<div class="row ">
 			<div class="col-md-6 ">
-				<h3>Especialidades</h3>
+				<h3>Tratamentos</h3>
 				<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, aliquam, non! Adipisci suscipit odio ipsum.</p>
 			</div>
 				
@@ -97,12 +99,6 @@
 					<div class="block-espec">
 						<img src="https://dummyimage.com/200x200/dedede/6b636b.gif&text=especialidade" class="img-fluid">
 					<h4 class="home-service-title">Incontinência Urinária</h4>
-					</div>
-				</div>
-				<div class="col-md-3">
-					<div class="block-espec">
-						<img src="https://dummyimage.com/200x200/dedede/6b636b.gif&text=especialidade" class="img-fluid">
-						<h4 class="home-service-title">Incontinência Urinária</h4>
 					</div>
 				</div>
 				<div class="col-md-3">

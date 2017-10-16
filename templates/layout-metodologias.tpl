@@ -2,7 +2,7 @@
 	<div class="hero-especialidades d-flex align-items-center ">
 		<div class="container">
 			<div class="hero-info ">
-				<h1 class="display-1">Metodologias</h1>
+				<h1>Metodologias</h1>
 				<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br>
 				Eveniet quidem mollitia reiciendis, ullam facilis, earum obcaecati dolore alias deserunt odit veritatis.</p>
 				<a href="./contato" class="btn btn-dark">Agende uma avaliação</a>

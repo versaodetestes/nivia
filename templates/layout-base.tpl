@@ -3,6 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<link href="https://fonts.googleapis.com/css?family=Fira+Sans:700i|Roboto:400,700" rel="stylesheet">
 	<title>{title}</title>
 	<meta tag="description" content="{description}">
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
@@ -10,7 +11,7 @@
 <body>
 <div class="header">
 
-		<nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
+		<nav class="navbar navbar-expand-lg header-nav">
 			<div class="container">
 		  <a class="navbar-brand" href="./index.php">Dra. Nivia Vinhola</a>
 		  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -23,7 +24,7 @@
 		        <a class="nav-link" href="./index.php">Home</a>
 		      </li>
 		      <li class="nav-item ">
-		        <a class="nav-link" href="./especialidades.php">Especialidades</a>
+		        <a class="nav-link" href="./tratamentos.php">Tratamentos</a>
 		      </li>
 		      <li class="nav-item ">
 		        <a class="nav-link" href="./metodologias.php">Metodologia</a>

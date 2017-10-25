@@ -9,57 +9,69 @@
 		</div>
 	</div>
 
+<div class="full-grey-bg">
+	
 	<!-- Newsletter -->
 	<div class="home-newsletter">
 		<div class="container">
 				<div class="newsletter">
-			<div class="row justify-content-between">
-
-					<div class="col-6">
-						<span class="news-title">Newsletter</span><br>
-						<span class="news-desc">Receba nossas dicas semanais no seu e-mail<br>para ter uma vida mais saudável</span>
-					</div>
-					<div class="col-5">
-						<form class="form-inline">
-							
-									<label for="email" class="col-form-label">Digite seu Email</label>
-									<input type="email" id="email" class="form-control" name="email" placeholder="Digite seu e-mail principal">
-
-									<div class="form-check news-check">
-									<label class="form-check-label">
-									<input type="checkbox" class="form-check-input">
-									 Homem
-									</label>
-									<label class="form-check-label">
-									<input type="checkbox" class="form-check-input">
-									 Mulher
-									</label>
+			<div class="row">
+						<div class="news-info">
+							<span class="news-title">Newsletter</span><br>
+							<span class="news-desc">Receba nossas dicas no seu e-mail<br>para ter uma vida mais saudável</span>
+						</div>
+						
+						<div class="newsletter-form">
+							<form class="form">
+								<div class="form-news-input">
+									<label for="nome">Nome</label><br>
+									<input type="text" name="nome" id="nome" placeholder="Digite seu nome" required>
 								</div>
-		
-								<button type="submit" class="btn btn-primary">Receber dicas</button>
-						</form>
+								<div class="form-news-input">
+									<label for="email">Email</label><br>
+									<input type="text" name="email" id="email" placeholder="Digite seu email" required>
+								</div>
+
+				<!-- 						<div class="form-check news-check">
+										<label class="form-check-label">
+										<input type="checkbox" class="form-check-input">
+										 Homem
+										</label>
+										<label class="form-check-label">
+										<input type="checkbox" class="form-check-input">
+										 Mulher
+										</label>
+									</div> -->
+			
+									<button type="submit" class="btn btn-primary submit-news">Receber dicas</button>
+							</form>			
+						</div>
+
 					</div>
 				</div>
 
 			</div>
 
 		</div>
-	</div>
 	<!-- FIM NEWSLETTER -->
 
 	<!-- BLOCK FEATURE -->
 		<div class="container">
 
 				
-				<div class="row justify-content-center home-tratamento">
+				<div class="row justify-content-center home-tratamento text-center">
 					<div class="col-md-8">
+						<img src="assets/img/icon-fisioterapia.svg" class="icon icon-big">
 						<h2>Tratamento com Fisioterapia Pélvica</h2>
 						<p>
 							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos consequatur nostrum eos, necessitatibus animi, corporis voluptatibus magnam cupiditate cum accusamus doloremque.
 						</p>
-						<a href="./especialidades/fisioterapia-pelvica" class="btn btn-primary">Saiba mais</a>
+						<a href="./especialidades/fisioterapia-pelvica" class="btn btn-primary">Como funciona o tratamento</a>
 					</div>
 				</div>
+		</div>
+</div>
+<div class="container">
 
 				<div class="row justify-content-center align-items-center home-about">
 					<div class="col-md-3">
@@ -81,14 +93,15 @@
 	<!-- ESPECIALIDADES -->
 	<div class="home-especialidades">
 		<div class="container">
-			<div class="row ">
+			<div class="row justify-content-center text-center">
 			<div class="col-md-6 ">
+				<img src="assets/img/icon-tratamentos.svg" class="icon icon-section">
 				<h3>Tratamentos</h3>
 				<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, aliquam, non! Adipisci suscipit odio ipsum.</p>
 			</div>
 				
 			</div>
-			<div class="row">
+			<div class="row justify-content-center text-center">
 				<div class="col-md-3">
 					<div class="block-espec">
 						<img src="https://dummyimage.com/200x200/dedede/6b636b.gif&text=especialidade" class="img-fluid">
@@ -108,6 +121,7 @@
 					</div>
 				</div>
 			</div>
+			<hr>
 		</div>
 	</div>
 
@@ -116,6 +130,7 @@
 		<div class="container">
 			<div class="row ">
 			<div class="col-md-6">
+				<img src="assets/img/icon-metodologia.svg" class="icon icon-section">
 				<h3>Metodologias</h3>
 				<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, aliquam, non! Adipisci suscipit odio ipsum.</p>
 			</div>

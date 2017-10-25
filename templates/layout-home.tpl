@@ -128,15 +128,15 @@
 	<!-- METODOLOGIAS -->
 	<div class="home-especialidades">
 		<div class="container">
-			<div class="row ">
-			<div class="col-md-6">
+			<div class="row justify-content-center text-center">
+			<div class="col-md-6 ">
 				<img src="assets/img/icon-metodologia.svg" class="icon icon-section">
 				<h3>Metodologias</h3>
 				<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, aliquam, non! Adipisci suscipit odio ipsum.</p>
 			</div>
 				
 			</div>
-			<div class="row">
+			<div class="row justify-content-center text-center">
 				<div class="col-md-3">
 					<div class="block-espec">
 						<img src="https://dummyimage.com/200x200/dedede/6b636b.gif&text=metodologia" class="img-fluid">

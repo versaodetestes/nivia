@@ -200,22 +200,24 @@
 					<h3>Newsletter</h3>
 					<span class="news-desc">Receba nossas dicas semanais no seu e-mail para ter uma vida mais saudável</span>
 						<form class="form">
-							
-									<label for="email" class="col-form-label">Digite seu Email</label>
-									<input type="email" id="email" class="form-control" name="email" placeholder="Digite seu e-mail principal">
+							<label for="nome" class="col-form-label">Digite seu Nome</label>
+							<input type="nome" id="nome" class="form-control" name="nome" placeholder="Digite seu nome">
 
-									<div class="form-check news-check">
-									<label class="form-check-label">
-									<input type="checkbox" class="form-check-input">
-									 Homem
-									</label>
-									<label class="form-check-label">
-									<input type="checkbox" class="form-check-input">
-									 Mulher
-									</label>
-								</div>
-		
-								<button type="submit" class="btn btn-primary">Receber dicas</button>
+							<label for="email" class="col-form-label">Digite seu Email</label>
+							<input type="email" id="email" class="form-control" name="email" placeholder="Digite seu e-mail">
+
+							<div class="form-check news-check">
+								<label class="form-check-label">
+								<input type="checkbox" class="form-check-input">
+								 Homem
+								</label>
+								<label class="form-check-label">
+								<input type="checkbox" class="form-check-input">
+								 Mulher
+								</label>
+							</div>
+
+							<button type="submit" class="btn btn-primary">Receber dicas</button>
 						</form>
 				</div>
 					

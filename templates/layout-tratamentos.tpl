@@ -1,11 +1,11 @@
 	<!-- HERO -->
-	<div class="hero-especialidades d-flex align-items-center ">
+	<div class="hero hero-especialidades d-flex align-items-center ">
 		<div class="container">
 			<div class="hero-info ">
 				<h1>Tratamentos</h1>
 				<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br>
-				Eveniet quidem mollitia reiciendis, ullam facilis, earum obcaecati dolore alias deserunt odit veritatis.</p>
-				<a href="./contato" class="btn btn-dark">Agende uma avaliação</a>
+				Eveniet quidem mollitia reiciendis, ullam facilis.</p>
+				<a href="./contato" class="btn btn-primary">Agende uma avaliação</a>
 			</div>
 		</div>
 	</div>

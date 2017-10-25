@@ -98,6 +98,9 @@ a {
 .nav-menu {
 	li {
 		margin-left: 25px;
+		 a {
+		 	color: $color-base;
+		 }
 	}
 }
 // HERO
@@ -186,6 +189,11 @@ a {
 	margin-top: 20px;
 }
 
+.row-subtitle {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
 .icon {
 	margin-bottom: 25px;
 }
@@ -212,4 +220,17 @@ a {
 // ESPECIALIDADES
 .card-especialidades {
 	margin-bottom: 35px;
+	border-radius: 5px 5px 0 0;
+	border-bottom: 3px solid $color-primary;
+	box-shadow:0px 5px 7px 0px rgba(168, 168, 168, 0.38);
+	height: 250px;
 }
+.card-title {
+	margin: 30px 0 0 0;
+	font-size: 30px;
+	margin-bottom: 10px;
+}
+	.btn-card {
+		bottom: 20px;
+		position: absolute;
+	}

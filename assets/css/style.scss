@@ -107,6 +107,12 @@ a {
 		 }
 	}
 }
+.nav-item {
+		@media #{$mobile-l} {
+			margin-top: 20px;
+			font-size: 20px;
+		}
+}
 // HERO
 .hero {
 	height: 700px;

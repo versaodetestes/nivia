@@ -1,11 +1,13 @@
 <div class="container">
 
-	<div class="row align-items-center about-nivia ">
-		<div class="col-md-4">
+	<div class="row row-about justify-content-center align-items-center">
+		<div class="col-md-12 text-center">
+			<h1 class="title-about">Dra. Nivia Vinhola</h1>
+		</div>
+		<div class="col-md-3">
 			<img src="https://dummyimage.com/250x300/dedede/6b636b.gif&text=foto+nivia" class="img-fluid">
 		</div>
 		<div class="col-md-6">
-			<h1>Dra. Nivia Vinhola</h1>
 			<p>
 				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis commodi quibusdam, animi iure doloremque dolore velit deleniti laudantium quae reiciendis earum sunt alias nihil rerum corporis, explicabo iste tenetur odio.
 			</p>
@@ -15,8 +17,8 @@
 		</div>
 	</div>
 
-	<div class="row">
-		<div class="col-md-8">
+	<div class="row justify-content-center section-row">
+		<div class="col-md-7">
 			<h2>Propósito Profissional</h2>
 			<p>
 			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit ipsum veritatis dolores nihil eos tempora, quas iure voluptate blanditiis, aut totam quaerat ratione asperiores fugiat labore, a. Nostrum sint, amet.
@@ -24,8 +26,8 @@
 		</div>
 	</div>
 
-	<div class="row">
-		<div class="col-md-8">
+	<div class="row justify-content-center section-row">
+		<div class="col-md-7">
 			<h3>Formação acadêmica</h3>
 			<p>
 			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit ipsum veritatis dolores nihil eos tempora, quas iure voluptate blanditiis, aut totam quaerat ratione asperiores fugiat labore, a. Nostrum sint, amet.
@@ -33,8 +35,8 @@
 		</div>
 	</div>
 
-	<div class="row">
-		<div class="col-md-8">
+	<div class="row justify-content-center section-row">
+		<div class="col-md-7">
 			<h2>A Clínica</h2>
 			<p>
 			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit ipsum veritatis dolores nihil eos tempora, quas iure voluptate blanditiis, aut totam quaerat ratione asperiores fugiat labore, a. Nostrum sint, amet.
@@ -42,8 +44,8 @@
 		</div>
 	</div>
 
-	<div class="row">
-		<div class="col-md-8">
+	<div class="row justify-content-center section-row">
+		<div class="col-md-7">
 			<h3>Fale comigo</h3>
 			<p class="lead">
 			Para tirar suas dúvidas, contatos profissionais, entre outros assuntos, preencha o formulário abaixo:

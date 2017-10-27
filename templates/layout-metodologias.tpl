@@ -21,7 +21,9 @@
 				<div class="card card-especialidades">
 				  <div class="card-body">
 				    <h4 class="card-title">Fisioterapia Pélvica</h4>
-				    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+
+				     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+				   
 				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
 				  </div>
 				</div>
@@ -31,7 +33,9 @@
 				<div class="card card-especialidades">
 				  <div class="card-body">
 				    <h4 class="card-title">Avaliação</h4>
-				    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+
+				     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+
 				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
 				  </div>
 				</div>
@@ -41,7 +45,9 @@
 				<div class="card card-especialidades">
 				  <div class="card-body">
 				    <h4 class="card-title">Cinesioterapia</h4>
-				    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+
+				     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+
 				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
 				  </div>
 				</div>
@@ -51,7 +57,9 @@
 				<div class="card card-especialidades">
 				  <div class="card-body">
 				    <h4 class="card-title">Biofeedback</h4>
-				    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+
+				     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+
 				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
 				  </div>
 				</div>
@@ -61,7 +69,9 @@
 				<div class="card card-especialidades">
 				  <div class="card-body">
 				    <h4 class="card-title">Elotroestimulação</h4>
-				    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+
+				     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+
 				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
 				  </div>
 				</div>
@@ -71,8 +81,10 @@
 				<div class="card card-especialidades">
 				  <div class="card-body">
 				    <h4 class="card-title">Terapia Comportamental</h4>
-				    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-				    <a href="#" class="btn btn-primary">Veja sintomas e tratamentos</a>
+
+				     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
+
 				  </div>
 				</div>
 			</div>
@@ -81,8 +93,10 @@
 				<div class="card card-especialidades">
 				  <div class="card-body">
 				    <h4 class="card-title">Treinamento funcional</h4>
-				    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-				    <a href="#" class="btn btn-primary">Veja sintomas e tratamentos</a>
+
+				     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
+
 				  </div>
 				</div>
 			</div>

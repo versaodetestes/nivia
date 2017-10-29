@@ -6,6 +6,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Fira+Sans:700i|Roboto:400,700" rel="stylesheet">
 	<title>{title}</title>
 	<meta tag="description" content="{description}">
+	<base href="http://localhost:7886/edsa-nivia/">
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 </head>
 <body>
@@ -39,11 +40,11 @@
 		        <a class="nav-link" href="#">Blog</a>
 		      </li>
 		      <li class="nav-item ">
-		        <a class="nav-link" href="#">Contato</a>
+		        <a class="nav-link" href="./contato.php">Contato</a>
 		      </li>
 
 	      <li class="nav-item nav-tel">
-	      	<a href="tel:+551150831743" class="btn btn-secondary">(11) 5083-1743</a>
+	      	<a href="tel:+551150831743" class="btn btn-primary">(11) 5083-1743</a>
 	      </li>
 
 		    </ul>

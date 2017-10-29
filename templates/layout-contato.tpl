@@ -1,31 +1,21 @@
 	<div class="hero-pattern d-flex align-items-center">
 		<div class="container">
 			<div class="hero-info">
-					<h1>{espec_nome}</h1>
+					<h1>Contato</h1>
 					<span class="line-title"></span>
-					<p class="lead">{espec_brief}</p>
+					<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
 			</div>
 		</div>
 	</div>
 <div class="container">
 	<div class="row justify-content-center row-content">
 		<div class="col-md-7">
-		{espec_geral}
-		<h2 class="content-h2">{espec_use}</h2>
-		{espec_use_text}
-
-		<h3 class="content-h3">{espec_treat}</h3>
-		{espec_treat_text}
-
-		<h3 class="content-h3">{espec_tec}</h3>
-		{espec_tect_text}
 
 
 		</div>
 	</div>
 	<div class="row justify-content-center">
 		<div class="col-md-7">
-			<hr>
 		<div class="form">
 			<h4>Agende uma consulta</h4>
 			<p>

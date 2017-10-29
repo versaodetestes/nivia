@@ -22,7 +22,7 @@
 				  <div class="card-body">
 				    <h4 class="card-title">Incontinência Urinária</h4>
 				    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
+				    <a href="./tratamento/incontinencia-urinaria.php" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
 				  </div>
 				</div>
 			</div>
@@ -32,7 +32,7 @@
 				  <div class="card-body">
 				    <h4 class="card-title">Disfunções Sexuais</h4>
 				     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
+				    <a href="./tratamento/incontinencia-urinaria.php" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
 				  </div>
 				</div>
 			</div>
@@ -42,7 +42,7 @@
 				  <div class="card-body">
 				    <h4 class="card-title">Dor Pélvica Crônica</h4>
 				     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
+				    <a href="./tratamento/incontinencia-urinaria.php" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
 				  </div>
 				</div>
 			</div>
@@ -52,7 +52,7 @@
 				  <div class="card-body">
 				    <h4 class="card-title">Incontinência Fecal</h4>
 				     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
+				    <a href="./tratamento/incontinencia-urinaria.php" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
 				  </div>
 				</div>
 			</div>
@@ -62,7 +62,7 @@
 				  <div class="card-body">
 				    <h4 class="card-title">Proplapso Genital</h4>
 				     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
+				    <a href="./tratamento/incontinencia-urinaria.php" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
 				  </div>
 				</div>
 			</div>
@@ -72,7 +72,7 @@
 				  <div class="card-body">
 				    <h4 class="card-title">Bexiga Neurogênica</h4>
 				     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
+				    <a href="./tratamento/incontinencia-urinaria.php" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
 				  </div>
 				</div>
 			</div>
@@ -82,7 +82,7 @@
 				  <div class="card-body">
 				    <h4 class="card-title">Constipação</h4>
 				     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
+				    <a href="./tratamento/incontinencia-urinaria.php" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
 				  </div>
 				</div>
 			</div>
@@ -92,7 +92,7 @@
 				  <div class="card-body">
 				    <h4 class="card-title">Enurese Noturna</h4>
 				     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
+				    <a href="./tratamento/incontinencia-urinaria.php" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
 				  </div>
 				</div>
 			</div>
@@ -102,7 +102,7 @@
 				  <div class="card-body">
 				    <h4 class="card-title">Prevenção</h4>
 				     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
+				    <a href="./tratamento/incontinencia-urinaria.php" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
 				  </div>
 				</div>
 			</div>
@@ -112,7 +112,7 @@
 				  <div class="card-body">
 				    <h4 class="card-title">Pós-parto</h4>
 				     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
+				    <a href="./tratamento/incontinencia-urinaria.php" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
 				  </div>
 				</div>
 			</div>
@@ -122,7 +122,7 @@
 				  <div class="card-body">
 				    <h4 class="card-title">Pós-operatório</h4>
 				     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
+				    <a href="./tratamento/incontinencia-urinaria.php" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
 				  </div>
 				</div>
 			</div>
@@ -132,7 +132,7 @@
 				  <div class="card-body">
 				    <h4 class="card-title">Prepação Pré-parto</h4>
 				     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
+				    <a href="./tratamento/incontinencia-urinaria.php" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
 				  </div>
 				</div>
 			</div>
@@ -142,7 +142,7 @@
 				  <div class="card-body">
 				    <h4 class="card-title">Rejuvenescimento Íntimo</h4>
 				     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
+				    <a href="./tratamento/incontinencia-urinaria.php" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
 				  </div>
 				</div>
 			</div>

@@ -3,3 +3,4 @@ prepros-6.config
 prepros-6.config
 *.config
 *.config
+templates/layout-base.tpl

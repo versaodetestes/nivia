@@ -1,13 +1,22 @@
-<div class="container">
 
-	<div class="row row-about justify-content-center align-items-center">
-		<div class="col-md-12 text-center">
-			<h1 class="title-about">Dra. Nivia Vinhola</h1>
+
+	<div class="hero-pattern d-flex align-items-center">
+		<div class="container">
+			<div class="hero-info">
+					<h1>Dra. Nivia Vinhola</h1>
+					<span class="line-title"></span>
+					<p class="lead">Lorem ipsum dolor sit amet</p>
+			</div>
 		</div>
-		<div class="col-md-3">
-			<img src="https://dummyimage.com/250x300/dedede/6b636b.gif&text=foto+nivia" class="img-fluid">
+	</div>
+<div class="container">
+	<div class="row text-center">
+		<div class="col-md-12 row-about">
+			<img src="https://dummyimage.com/1000x500/dedede/6b636b.gif&text=Foto+Nivia" class="img-fluid">
 		</div>
-		<div class="col-md-6">
+	</div>
+	<div class="row justify-content-center section-row">
+		<div class="col-md-7">
 			<p>
 				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis commodi quibusdam, animi iure doloremque dolore velit deleniti laudantium quae reiciendis earum sunt alias nihil rerum corporis, explicabo iste tenetur odio.
 			</p>

@@ -6,7 +6,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Fira+Sans:700i|Roboto:400,700" rel="stylesheet">
 	<title>{title}</title>
 	<meta tag="description" content="{description}">
-	<base href="http://nivia.pradoeprado.com/">
+	<base href="http://localhost:7886/edsa-nivia/">
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 </head>
 <body>

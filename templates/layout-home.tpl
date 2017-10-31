@@ -97,7 +97,8 @@
 			<div class="col-md-6 ">
 				<img src="assets/img/icon-tratamentos.svg" class="icon icon-section">
 				<h3>Tratamentos</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, aliquam, non! Adipisci suscipit odio ipsum.</p>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br>
+				Fugit, aliquam, non! Adipisci suscipit odio ipsum.</p>
 			</div>
 				
 			</div>
@@ -134,7 +135,10 @@
 			</div>
 		</div>
 		<div class="row text-center">
-			<a href="./especialidades/fisioterapia-pelvica" class="btn btn-primary">Veja + 13 tratamentos</a>
+			<div class="col-md-12">
+				<a href="./tratamentos" class="btn btn-primary">Veja todos os tratamentos</a>
+			</div>
+			
 		</div>
 			<hr>
 		</div>
@@ -147,7 +151,8 @@
 			<div class="col-md-6 ">
 				<img src="assets/img/icon-metodologia.svg" class="icon icon-section">
 				<h3>Metodologias</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, aliquam, non! Adipisci suscipit odio ipsum.</p>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br>
+				Fugit, aliquam, non! Adipisci suscipit odio ipsum.</p>
 			</div>
 				
 			</div>
@@ -188,6 +193,12 @@
 				  </div>
 				</div>
 			</div>
+		</div>
+		<div class="row text-center">
+			<div class="col-md-12">
+				<a href="./metodologias" class="btn btn-primary">Veja todas as metodologias</a>
+			</div>
+			
 		</div>
 			<hr>
 		</div>

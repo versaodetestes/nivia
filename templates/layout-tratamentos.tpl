@@ -12,9 +12,11 @@
 
 	<div class="container">
 		<div class="row row-subtitle">
+		<div class="col-sm-12">
 		<h2>Subtitle</h2>
 			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis, explicabo! Eum eius maiores, quod delectus asperiores minus aperiam velit quasi placeat. Nam sequi officia, repudiandae ipsam minus totam reprehenderit autem.
 		</div>
+	</div>
 		<div class="row">
 
 			<div class="col-sm-4">

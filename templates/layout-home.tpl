@@ -97,30 +97,45 @@
 			<div class="col-md-6 ">
 				<img src="assets/img/icon-tratamentos.svg" class="icon icon-section">
 				<h3>Tratamentos</h3>
-				<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, aliquam, non! Adipisci suscipit odio ipsum.</p>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, aliquam, non! Adipisci suscipit odio ipsum.</p>
 			</div>
 				
 			</div>
-			<div class="row justify-content-center text-center">
-				<div class="col-md-3">
-					<div class="block-espec">
-						<img src="https://dummyimage.com/200x200/dedede/6b636b.gif&text=especialidade" class="img-fluid">
-						<h4 class="home-service-title">Incontinência Urinária</h4>
-					</div>					
-				</div>
-				<div class="col-md-3">
-					<div class="block-espec">
-						<img src="https://dummyimage.com/200x200/dedede/6b636b.gif&text=especialidade" class="img-fluid">
-					<h4 class="home-service-title">Incontinência Urinária</h4>
-					</div>
-				</div>
-				<div class="col-md-3">
-					<div class="block-espec">
-						<img src="https://dummyimage.com/200x200/dedede/6b636b.gif&text=especialidade" class="img-fluid">
-						<h4 class="home-service-title">Incontinência Urinária</h4>
-					</div>
+		<div class="row">
+
+			<div class="col-sm-4">
+				<div class="card card-especialidades">
+				  <div class="card-body">
+				    <h4 class="card-title">Incontinência Urinária</h4>
+				    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+				    <a href="./tratamento/incontinencia-urinaria.php" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
+				  </div>
 				</div>
 			</div>
+
+			<div class="col-sm-4">
+				<div class="card card-especialidades">
+				  <div class="card-body">
+				    <h4 class="card-title">Disfunções Sexuais</h4>
+				     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+				    <a href="./tratamento/incontinencia-urinaria.php" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
+				  </div>
+				</div>
+			</div>
+
+			<div class="col-sm-4">
+				<div class="card card-especialidades">
+				  <div class="card-body">
+				    <h4 class="card-title">Dor Pélvica Crônica</h4>
+				     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+				    <a href="./tratamento/incontinencia-urinaria.php" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
+				  </div>
+				</div>
+			</div>
+		</div>
+		<div class="row text-center">
+			<a href="./especialidades/fisioterapia-pelvica" class="btn btn-primary">Veja + 13 tratamentos</a>
+		</div>
 			<hr>
 		</div>
 	</div>
@@ -132,36 +147,48 @@
 			<div class="col-md-6 ">
 				<img src="assets/img/icon-metodologia.svg" class="icon icon-section">
 				<h3>Metodologias</h3>
-				<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, aliquam, non! Adipisci suscipit odio ipsum.</p>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, aliquam, non! Adipisci suscipit odio ipsum.</p>
 			</div>
 				
 			</div>
-			<div class="row justify-content-center text-center">
-				<div class="col-md-3">
-					<div class="block-espec">
-						<img src="https://dummyimage.com/200x200/dedede/6b636b.gif&text=metodologia" class="img-fluid">
-						<h4 class="home-service-title">Incontinência Urinária</h4>
-					</div>					
-				</div>
-				<div class="col-md-3">
-					<div class="block-espec">
-						<img src="https://dummyimage.com/200x200/dedede/6b636b.gif&text=metodologia" class="img-fluid">
-					<h4 class="home-service-title">Incontinência Urinária</h4>
-					</div>
-				</div>
-				<div class="col-md-3">
-					<div class="block-espec">
-						<img src="https://dummyimage.com/200x200/dedede/6b636b.gif&text=metodologia" class="img-fluid">
-						<h4 class="home-service-title">Incontinência Urinária</h4>
-					</div>
-				</div>
-				<div class="col-md-3">
-					<div class="block-espec">
-						<img src="https://dummyimage.com/200x200/dedede/6b636b.gif&text=metodologia" class="img-fluid">
-						<h4 class="home-service-title">Incontinência Urinária</h4>
-					</div>
+<div class="row">
+
+			<div class="col-sm-4">
+				<div class="card card-especialidades">
+				  <div class="card-body">
+				    <h4 class="card-title">Fisioterapia Pélvica</h4>
+
+				     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+				   
+				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
+				  </div>
 				</div>
 			</div>
+
+			<div class="col-sm-4">
+				<div class="card card-especialidades">
+				  <div class="card-body">
+				    <h4 class="card-title">Avaliação</h4>
+
+				     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+
+				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
+				  </div>
+				</div>
+			</div>
+
+			<div class="col-sm-4">
+				<div class="card card-especialidades">
+				  <div class="card-body">
+				    <h4 class="card-title">Cinesioterapia</h4>
+
+				     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+
+				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
+				  </div>
+				</div>
+			</div>
+		</div>
 			<hr>
 		</div>
 	</div>

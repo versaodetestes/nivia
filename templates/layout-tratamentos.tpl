@@ -1,5 +1,5 @@
 	<!-- HERO -->
-	<div class="hero hero-especialidades d-flex align-items-center ">
+	<div class="hero hero-especialidades">
 		<div class="container">
 			<div class="hero-info ">
 				<h1>Tratamentos</h1>
@@ -12,8 +12,10 @@
 
 	<div class="container">
 		<div class="row row-subtitle">
-		<h2>Subtitle</h2>
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis, explicabo! Eum eius maiores, quod delectus asperiores minus aperiam velit quasi placeat. Nam sequi officia, repudiandae ipsam minus totam reprehenderit autem.
+		<div class="col-md-12">
+			<h2>Subtitle</h2>
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis, explicabo! Eum eius maiores, quod delectus asperiores minus aperiam velit quasi placeat. Nam sequi officia, repudiandae ipsam minus totam reprehenderit autem.
+			</div>
 		</div>
 		<div class="row">
 

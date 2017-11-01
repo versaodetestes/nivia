@@ -1,5 +1,5 @@
 	<!-- HERO -->
-	<div class="hero hero-home d-flex align-items-center">
+	<div class="hero hero-home">
 		<div class="container">
 			<div class="hero-info">
 				<h1>Fisioterapia Pélvica</h1>

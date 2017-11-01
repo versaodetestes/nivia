@@ -125,6 +125,11 @@ a {
 .hero {
 	height: 700px;
 	background-size: cover !important;
+	display: flex;
+	align-items: center;
+	@media #{$mobile-l} {
+		align-items: flex-end;
+	}
 }
 .hero-home {
 	background: url("../img/hero-home-1920.jpg");
@@ -137,16 +142,21 @@ a {
 .hero-especialidades {
 	background: url("../img/hero-tratamentos-1920.jpg");
 	@media #{$mobile-l} {
-	height: 400px;
+	height: 580px;
 	background: url("../img/hero-tratamentos-mobile.jpg");
 	}
 }
 .hero-metodologia {
 	background: url("../img/hero-metodologia-1920.jpg");
 	@media #{$mobile-l} {
-	height: 400px;
-	background: url("../img/hero-tratamentos-mobile.jpg");
+	height: 580px;
+	background: url("../img/hero-metodologia-mobile.jpg");
 	}
+}
+.hero-info {
+		@media #{$mobile-l} {
+			padding-bottom: 50px;
+		}
 }
 .hero-pattern {
 	width: 100%;

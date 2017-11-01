@@ -134,7 +134,9 @@
 			</div>
 		</div>
 		<div class="row text-center">
-			<a href="./especialidades/fisioterapia-pelvica" class="btn btn-primary">Veja + 13 tratamentos</a>
+			<div class="col-sm-12">
+				<a href="./tratamentos" class="btn btn-primary">Veja outros tratamentos</a>
+			</div>
 		</div>
 			<hr>
 		</div>
@@ -187,6 +189,12 @@
 				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
 				  </div>
 				</div>
+			</div>
+
+		</div>
+		<div class="row text-center">
+			<div class="col-sm-12">
+				<a href="./metodologias" class="btn btn-primary">Veja outras metodologias</a>
 			</div>
 		</div>
 			<hr>

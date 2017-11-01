@@ -4,7 +4,7 @@
 			<div class="hero-info ">
 				<h1>Metodologias</h1>
 				<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br>
-				Eveniet quidem mollitia reiciendis, ullam facilis, earum obcaecati dolore alias deserunt odit veritatis.</p>
+				Eveniet quidem mollitia reiciendis, ullam facilis</p>
 				<a href="./contato" class="btn btn-primary">Agende uma avaliação</a>
 			</div>
 		</div>

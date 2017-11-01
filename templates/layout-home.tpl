@@ -26,13 +26,8 @@
 								<div class="form-news-input">
 									<label for="nome">Nome</label><br>
 									<input type="text" name="nome" id="nome" placeholder="Digite seu nome" required>
-								</div>
-								<div class="form-news-input">
-									<label for="email">Email</label><br>
-									<input type="text" name="email" id="email" placeholder="Digite seu email" required>
-								</div>
 
-				<!-- 						<div class="form-check news-check">
+										<div class="form-check news-check  d-none d-sm-block">
 										<label class="form-check-label">
 										<input type="checkbox" class="form-check-input">
 										 Homem
@@ -41,7 +36,23 @@
 										<input type="checkbox" class="form-check-input">
 										 Mulher
 										</label>
-									</div> -->
+									</div>
+								</div>
+								<div class="form-news-input">
+									<label for="email">Email</label><br>
+									<input type="text" name="email" id="email" placeholder="Digite seu email" required>
+								</div>
+
+										<div class="form-check news-check d-block d-sm-none">
+										<label class="form-check-label">
+										<input type="checkbox" class="form-check-input">
+										 Homem
+										</label>
+										<label class="form-check-label">
+										<input type="checkbox" class="form-check-input">
+										 Mulher
+										</label>
+									</div>
 			
 									<button type="submit" class="btn btn-primary submit-news">Receber dicas</button>
 							</form>			

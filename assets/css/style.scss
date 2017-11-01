@@ -125,11 +125,16 @@ a {
 .hero {
 	height: 700px;
 	background-size: cover !important;
+	display: flex;
+	align-items: center;
+	@media #{$mobile-l} {
+		height: 600px;
+		align-items: flex-end;
+	}
 }
 .hero-home {
 	background: url("../img/hero-home-1920.jpg");
 	@media #{$mobile-l} {
-	height: 580px;
 	background: url("../img/hero-home-mobile.jpg");
 	}
 
@@ -137,16 +142,19 @@ a {
 .hero-especialidades {
 	background: url("../img/hero-tratamentos-1920.jpg");
 	@media #{$mobile-l} {
-	height: 400px;
 	background: url("../img/hero-tratamentos-mobile.jpg");
 	}
 }
 .hero-metodologia {
 	background: url("../img/hero-metodologia-1920.jpg");
 	@media #{$mobile-l} {
-	height: 400px;
-	background: url("../img/hero-tratamentos-mobile.jpg");
+	background: url("../img/hero-metodologia-mobile.jpg");
 	}
+}
+.hero-info {
+		@media #{$mobile-l} {
+			padding: 0 50px 50px 20px;
+		}
 }
 .hero-pattern {
 	width: 100%;
@@ -195,11 +203,23 @@ a {
     }
 	@media #{$mobile-l} {
 		margin-left: 0;
+		margin-top: 5px;
 	}
+}
+.news-check {
+	margin-top: 5px;
+	@media #{$mobile-l} {
+	float: left;
+	width: 100%;
+	margin-top: 10px;
+}
 }
 .submit-news {
 	margin-top: 32px;
 	margin-left: 5px;
+	@media #{$mobile-l} {
+		margin-top: 15px;
+	}
 }
 
 .news-title {

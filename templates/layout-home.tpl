@@ -1,5 +1,5 @@
 	<!-- HERO -->
-	<div class="hero hero-home d-flex align-items-center">
+	<div class="hero hero-home">
 		<div class="container">
 			<div class="hero-info">
 				<h1>Fisioterapia Pélvica</h1>
@@ -26,13 +26,8 @@
 								<div class="form-news-input">
 									<label for="nome">Nome</label><br>
 									<input type="text" name="nome" id="nome" placeholder="Digite seu nome" required>
-								</div>
-								<div class="form-news-input">
-									<label for="email">Email</label><br>
-									<input type="text" name="email" id="email" placeholder="Digite seu email" required>
-								</div>
 
-				<!-- 						<div class="form-check news-check">
+										<div class="form-check news-check  d-none d-sm-block">
 										<label class="form-check-label">
 										<input type="checkbox" class="form-check-input">
 										 Homem
@@ -41,7 +36,23 @@
 										<input type="checkbox" class="form-check-input">
 										 Mulher
 										</label>
-									</div> -->
+									</div>
+								</div>
+								<div class="form-news-input">
+									<label for="email">Email</label><br>
+									<input type="text" name="email" id="email" placeholder="Digite seu email" required>
+								</div>
+
+										<div class="form-check news-check d-block d-sm-none">
+										<label class="form-check-label">
+										<input type="checkbox" class="form-check-input">
+										 Homem
+										</label>
+										<label class="form-check-label">
+										<input type="checkbox" class="form-check-input">
+										 Mulher
+										</label>
+									</div>
 			
 									<button type="submit" class="btn btn-primary submit-news">Receber dicas</button>
 							</form>			
@@ -135,10 +146,16 @@
 			</div>
 		</div>
 		<div class="row text-center">
+<<<<<<< HEAD
 			<div class="col-md-12">
 				<a href="./tratamentos" class="btn btn-primary">Veja todos os tratamentos</a>
 			</div>
 			
+=======
+			<div class="col-sm-12">
+				<a href="./tratamentos" class="btn btn-primary">Veja outros tratamentos</a>
+			</div>
+>>>>>>> 2331c48f815c91084ebcf59d08ea6b32e589a70f
 		</div>
 			<hr>
 		</div>
@@ -192,6 +209,12 @@
 				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
 				  </div>
 				</div>
+			</div>
+
+		</div>
+		<div class="row text-center">
+			<div class="col-sm-12">
+				<a href="./metodologias" class="btn btn-primary">Veja outras metodologias</a>
 			</div>
 		</div>
 		<div class="row text-center">

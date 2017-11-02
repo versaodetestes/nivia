@@ -146,16 +146,10 @@
 			</div>
 		</div>
 		<div class="row text-center">
-<<<<<<< HEAD
 			<div class="col-md-12">
 				<a href="./tratamentos" class="btn btn-primary">Veja todos os tratamentos</a>
 			</div>
 			
-=======
-			<div class="col-sm-12">
-				<a href="./tratamentos" class="btn btn-primary">Veja outros tratamentos</a>
-			</div>
->>>>>>> 2331c48f815c91084ebcf59d08ea6b32e589a70f
 		</div>
 			<hr>
 		</div>
@@ -213,11 +207,6 @@
 
 		</div>
 		<div class="row text-center">
-			<div class="col-sm-12">
-				<a href="./metodologias" class="btn btn-primary">Veja outras metodologias</a>
-			</div>
-		</div>
-		<div class="row text-center">
 			<div class="col-md-12">
 				<a href="./metodologias" class="btn btn-primary">Veja todas as metodologias</a>
 			</div>
@@ -237,19 +226,19 @@
 
 					<p>	Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero atque voluptatem iure officiis magnam fugit</p>
 					<div class="blog-home-card">
-						<a href="#"><h4 class="blog-home-title">Post title</h4></a>
+						<a href="#"><h4 class="blog-home-title">7 passos para uma vida mais saudável</h4></a>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus dolore eius officiis.</p>
 						<a href="#">Leia mais</a>
 					</div>
 
 					<div class="blog-home-card">
-						<a href="#"><h4 class="blog-home-title">Post title</h4></a>
+						<a href="#"><h4 class="blog-home-title">O que você precisa saber sobre prevenção</h4></a>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus dolore eius officiis.</p>
 						<a href="#">Leia mais</a>
 					</div>
 
 					<div class="blog-home-card">
-						<a href="#"><h4 class="blog-home-title">Post title</h4></a>
+						<a href="#"><h4 class="blog-home-title">Quando remédio não é a solução</h4></a>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus dolore eius officiis.</p>
 						<a href="#">Leia mais</a>
 					</div>

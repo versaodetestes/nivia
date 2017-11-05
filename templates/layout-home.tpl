@@ -151,12 +151,12 @@
 			</div>
 			
 		</div>
-			<hr>
+			<hr class="hr">
 		</div>
 	</div>
 
 	<!-- METODOLOGIAS -->
-	<div class="home-especialidades">
+	<div class="home-metodologias">
 		<div class="container">
 			<div class="row justify-content-center text-center">
 			<div class="col-md-6 ">
@@ -212,7 +212,7 @@
 			</div>
 			
 		</div>
-			<hr>
+			<hr class="hr">
 		</div>
 	</div>
 
@@ -228,19 +228,19 @@
 					<div class="blog-home-card">
 						<a href="#"><h4 class="blog-home-title">7 passos para uma vida mais saudável</h4></a>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus dolore eius officiis.</p>
-						<a href="#">Leia mais</a>
+						<a href="#" class="link">Leia mais</a>
 					</div>
 
 					<div class="blog-home-card">
 						<a href="#"><h4 class="blog-home-title">O que você precisa saber sobre prevenção</h4></a>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus dolore eius officiis.</p>
-						<a href="#">Leia mais</a>
+						<a href="#" class="link">Leia mais</a>
 					</div>
 
 					<div class="blog-home-card">
 						<a href="#"><h4 class="blog-home-title">Quando remédio não é a solução</h4></a>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus dolore eius officiis.</p>
-						<a href="#">Leia mais</a>
+						<a href="#" class="link">Leia mais</a>
 					</div>
 					
 				</div>

@@ -9,23 +9,30 @@
 	</div>
 <div class="container">
 	<div class="row justify-content-center row-content ">
-		<div class="col-md-3">
+			<div class="col-sm-4">
+				<div class="card card-contato">
+				  <div class="card-body">
+				    <h4 class="card-title">Telefones</h4>
 
-			<h3>Telefones:</h3>
-			<a href="tel:1150831743">(11) 5083-1743</a><br>
-			<a href="tel:11947866562">(11) 94786-6562</a>
-		</div>
-		<div class="col-md-3">
-			<h3>Horários:</h3>
-			<span class="horarios">
-				De <strong>Segunda</strong> a <strong>Sexta</strong><br>
+				    <a href="tel:1150831743">(11) 5083-1743</a><br>
+					<a href="tel:11947866562">(11) 94786-6562</a>
+				  </div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="card card-contato">
+				  <div class="card-body">
+				    <h4 class="card-title">Horários</h4>
+
+				    De <strong>Segunda</strong> a <strong>Sexta</strong><br>
 				das 9hs às 18hs
-			</span>
-		</div>
+				  </div>
+				</div>
+			</div>
 	</div>
 	<div class="row justify-content-center">
 		<div class="col-md-7">
-		<div class="form">
+		<div class="form-consulta">
 			<img src="assets/img/icon-contato.svg" class="icon icon-big">
 			<h3>Agende uma consulta</h3>
 			<p>

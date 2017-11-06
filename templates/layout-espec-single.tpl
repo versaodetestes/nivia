@@ -27,7 +27,8 @@
 		<div class="col-md-7">
 			<hr>
 		<div class="form">
-			<h4>Agende uma consulta</h4>
+			<img src="assets/img/icon-contato.svg" class="icon icon-big">
+			<h3>Agende uma consulta</h3>
 			<p>
 				Preencha o formulário abaixo com seus dados para que possamos entrar em contato
 			</p>
@@ -50,7 +51,7 @@
 			  </div>
 
 				<div class="form-group">
-				<label>Dia da semana de preferência</label>
+				<label>Dia da semana de preferência:</label>
 				<select class="form-control">
 				  <option selected>Selecione um dia</option>
 				  <option value="Manhã">Segunda</option>
@@ -62,12 +63,17 @@
 			</div>
 
 				<div class="form-group">
-				<label>Período de preferência</label>
-				<select class="form-control" name="periodo">
-				  <option selected>Selecione um perído</option>
-				  <option value="Manhã">Manhã</option>
-				  <option value="Tarde">Tarde</option>
-				</select>
+				<label>Período de preferência:</label><br>
+				<label class="custom-control custom-radio">
+				  <input id="radio1" name="radio" type="radio" class="custom-control-input">
+				  <span class="custom-control-indicator"></span>
+				  <span class="custom-control-description">Manhã</span>
+				</label>
+				<label class="custom-control custom-radio">
+				  <input id="radio2" name="radio" type="radio" class="custom-control-input">
+				  <span class="custom-control-indicator"></span>
+				  <span class="custom-control-description">Tarde</span>
+				</label>
 			</div>
 
 				<div class="form-group">

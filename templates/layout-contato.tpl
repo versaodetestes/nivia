@@ -54,7 +54,7 @@
 				<div class="form-group">
 				<label>Período de preferência</label>
 				<select class="form-control" name="periodo">
-				  <option selected>Selecione um perído</option>
+				  <option selected>Selecione um período</option>
 				  <option value="Manhã">Manhã</option>
 				  <option value="Tarde">Tarde</option>
 				</select>
@@ -83,8 +83,12 @@
 			<div id="map"></div>
 		</div>
 	</div>
-	<div class="col-md-7">
-		<a href="https://waze.com/ul?ll=-23.595316,-46.648358">Enviar rota para Waze</a>
+</div>
+<div class="row text-center d-block d-sm-none">
+	<div class="col-md-12">
+		<span class="waze">
+			<a href="https://waze.com/ul?ll=-23.595316,-46.648358"><img src="assets/img/waze.jpg"><br> Abra a rota no Waze</a>
+		</span>
 	</div>
 </div>
 </div>

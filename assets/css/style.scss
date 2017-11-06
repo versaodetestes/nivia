@@ -396,3 +396,11 @@ a.link {
 	margin-top: 50px;
 	margin-bottom: 25px;
 }
+.waze {
+	margin-top: 50px;
+	margin-bottom: 80px;
+	display: inline-block;
+	> a > img {
+		max-width: 200px;
+	}
+}

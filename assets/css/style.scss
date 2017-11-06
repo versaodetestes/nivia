@@ -351,6 +351,13 @@ a.link {
 	box-shadow:0px 5px 7px 0px rgba(168, 168, 168, 0.38);
 	height: 250px;
 }
+.card-contato {
+	margin-bottom: 35px;
+	border-radius: 5px 5px 0 0;
+	border-bottom: 3px solid $color-primary;
+	box-shadow:0px 5px 7px 0px rgba(168, 168, 168, 0.38);
+	height: 200px;
+}
 .card-title {
 	margin: 30px 0 0 0;
 	font-size: 30px;
@@ -382,4 +389,29 @@ a.link {
 
 .logo-prado {
 	width: 150px;
+}
+
+.form-consulta {
+	margin-top: 50px;
+}
+
+#map, .map {
+	width: 100%;
+	max-width: 1200px;
+	height: 600px;
+	@media #{$mobile-l} {
+		height: 380px;
+	}
+}
+.map-info {
+	margin-top: 50px;
+	margin-bottom: 25px;
+}
+.waze {
+	margin-top: 50px;
+	margin-bottom: 80px;
+	display: inline-block;
+	> a > img {
+		max-width: 200px;
+	}
 }

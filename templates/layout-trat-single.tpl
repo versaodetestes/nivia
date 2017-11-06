@@ -17,7 +17,8 @@
 	</div>
 	<div class="row">
 		<div class="form">
-			<h4>Agende uma consulta</h4>
+			<img src="assets/img/icon-contato.svg" class="icon icon-big">
+			<h3>Agende uma consulta</h3>
 			<p>
 				Preencha o formulário abaixo com seus dados para que possamos entrar em contato
 			</p>
@@ -39,50 +40,37 @@
 			    <small id="emailHelp" class="form-text text-muted">Nós nunca compartilhamos suas informações com terceiros.</small>
 			  </div>
 
-				<h5>Dia da semana de preferência</h5>
-				<div class="form-check form-check-inline">
-				  <label class="form-check-label">
-				    <input class="form-check-input" type="checkbox" id="inlineCheckbox1" name="diadasemana" value="Segunda-feira"> Seg
-				  </label>
-				</div>
-				<div class="form-check form-check-inline">
-				  <label class="form-check-label">
-				    <input class="form-check-input" type="checkbox" id="inlineCheckbox2" name="diadasemana" value="Terça-feira"> Ter
-				  </label>
-				</div>
-				<div class="form-check form-check-inline disabled">
-				  <label class="form-check-label">
-				    <input class="form-check-input" type="checkbox" id="inlineCheckbox3" name="diadasemana" value="Quarta-feira" disabled> Quar
-				  </label>
-				</div>
-				<div class="form-check form-check-inline disabled">
-				  <label class="form-check-label">
-				    <input class="form-check-input" type="checkbox" id="inlineCheckbox4" name="diadasemana" value="Quinta-feira" disabled> Qui
-				  </label>
-				</div>
-				<div class="form-check form-check-inline disabled">
-				  <label class="form-check-label">
-				    <input class="form-check-input" type="checkbox" id="inlineCheckbox5" name="diadasemana" value="Sexta-feira" disabled> Sex
-				  </label>
-				</div>
+				<div class="form-group">
+				<label>Dia da semana de preferência:</label>
+				<select class="form-control">
+				  <option selected>Selecione um dia</option>
+				  <option value="Manhã">Segunda</option>
+				  <option value="Segunda">Terça</option>
+				  <option value="Quarta">Quarta</option>
+				  <option value="Quinta">Quinta</option>
+				  <option value="Sexta">Sexta</option>
+				</select>
+			</div>
 
-
-				<h5>Período de preferência</h5>
-				<div class="form-check form-check-inline">
-				  <label class="form-check-label">
-				    <input class="form-check-input" type="checkbox" id="inlineCheckbox1" name="diadasemana" value="Manhã"> Manhã
-				  </label>
-				</div>
-				<div class="form-check form-check-inline">
-				  <label class="form-check-label">
-				    <input class="form-check-input" type="checkbox" id="inlineCheckbox2" name="diadasemana" value="Tarde"> Tarde
-				  </label>
-				</div>
+				<div class="form-group">
+				<label>Período de preferência:</label><br>
+				<label class="custom-control custom-radio">
+				  <input id="radio1" name="radio" type="radio" class="custom-control-input">
+				  <span class="custom-control-indicator"></span>
+				  <span class="custom-control-description">Manhã</span>
+				</label>
+				<label class="custom-control custom-radio">
+				  <input id="radio2" name="radio" type="radio" class="custom-control-input">
+				  <span class="custom-control-indicator"></span>
+				  <span class="custom-control-description">Tarde</span>
+				</label>
+			</div>
 
 				<div class="form-group">
 			    	<label for="exampleFormControlTextarea1">Mensagem</label>
 			    	<textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
 			  	</div>
+			  	<input type="hidden" name="tratamento" value="{espec_nome}">
 
 			  	<button type="submit" class="btn btn-primary">Enviar</button>
 

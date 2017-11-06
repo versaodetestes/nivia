@@ -60,23 +60,35 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-4">
-				<div class="nav">
-					<ul>
-						<li><a href="#">Agendar consulta</a></li>
-						<li><a href="#">Sobre</a></li>
-						<li><a href="#">Blog</a></li>
-					</ul>
-				</div>
+				<h4 class="footer-title">Como chegar</h4>
+				<span class="adress">Rua Dr. Diogo de Faria, 1202<br>
+					CJ 19, Vila Clementino - SP
+				</span><br>	
+				<small><a href="#">[ Ver no mapa ]</a></small>
 			</div>
 			<div class="col-md-4">
-				
+				<h4 class="footer-title">Agende sua consulta</h4>
+				<span class="fotter-tel">(11) 5083-1743</span><br>
+				<span class="fotter-tel">(11) 94786-6562</span>
 			</div>
 			<div class="col-md-4">
-				
+				<h4 class="footer-title">Horários</h4>
+				<span class="horarios">De <strong>Segunda</strong> a <strong>Sexta</strong><br>
+				das 9h às 18hs
+				</span>
 			</div>
 		</div>
 	</div>
 </footer>
+<div class="pradoprado">
+	<div class="container">
+		<div class="row text-center">
+			<div class="col-md-12">
+				<a href="https://pradoeprado.com" target="_blank"><img src="assets/img/logo-pradoprado.svg" class="logo-prado"></a>
+			</div>
+		</div>
+	</div>
+</div>
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>

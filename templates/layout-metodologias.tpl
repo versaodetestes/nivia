@@ -4,7 +4,8 @@
 			<div class="hero-info ">
 				<h1>Metodologias</h1>
 				<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br>
-				Eveniet quidem mollitia reiciendis, ullam facilis</p>
+				Eveniet quidem mollitia reiciendis, ullam facilis.</p>
+
 				<a href="./contato" class="btn btn-primary">Agende uma avaliação</a>
 			</div>
 		</div>
@@ -12,7 +13,7 @@
 
 	<div class="container">
 		<div class="row row-subtitle">
-		<div class="col-md-12">
+			<div class="col-sm-12">
 			<h2>Subtitle</h2>
 				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis, explicabo! Eum eius maiores, quod delectus asperiores minus aperiam velit quasi placeat. Nam sequi officia, repudiandae ipsam minus totam reprehenderit autem.
 			</div>

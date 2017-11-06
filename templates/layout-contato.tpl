@@ -17,7 +17,7 @@
 	<div class="row justify-content-center">
 		<div class="col-md-7">
 		<div class="form">
-			<h4>Agende uma consulta</h4>
+			<h2>Agende uma consulta</h2>
 			<p>
 				Preencha o formulário abaixo com seus dados para que possamos entrar em contato
 			</p>
@@ -72,3 +72,37 @@
 		</div>
 	</div>
 </div>
+<div class="row justify-content-center ">
+	<div class="col-md-7 map-info">
+		<h2>Como chegar</h2>
+		<address>Rua Dr. Diogo de Faria, 1202<br>
+		CJ 91, Vila Clementino - SP</address>
+	</div>
+	<div class="col-md-12">
+		<div class="map">
+			<div id="map"></div>
+		</div>
+	</div>
+	<div class="col-md-7">
+		<a href="https://waze.com/ul?ll=-23.595316,-46.648358">Enviar rota para Waze</a>
+	</div>
+</div>
+</div>
+
+
+<script type="text/javascript">
+	function initMap() {
+        var mapcenter = {lat: -23.595316, lng: -46.648358};
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 16,
+          center: mapcenter,
+          styles:[]
+        });
+        var marker = new google.maps.Marker({
+          position: mapcenter,
+          map: map
+        });
+      }
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAVcDjAClmaXWT_yYID5Ij1d9XdJLpXp7A&callback=initMap"
+    ></script>

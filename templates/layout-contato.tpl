@@ -60,8 +60,8 @@
 				<label>Dia da semana de preferência:</label>
 				<select class="form-control">
 				  <option selected>Selecione um dia</option>
-				  <option value="Manhã">Segunda</option>
-				  <option value="Segunda">Terça</option>
+				  <option value="Segunda">Segunda</option>
+				  <option value="Terça">Terça</option>
 				  <option value="Quarta">Quarta</option>
 				  <option value="Quinta">Quinta</option>
 				  <option value="Sexta">Sexta</option>
@@ -71,12 +71,12 @@
 				<div class="form-group">
 				<label>Período de preferência:</label><br>
 				<label class="custom-control custom-radio">
-				  <input id="radio1" name="radio" type="radio" class="custom-control-input">
+				  <input id="radio1" name="radio" type="radio" class="custom-control-input" value="Manhã">
 				  <span class="custom-control-indicator"></span>
 				  <span class="custom-control-description">Manhã</span>
 				</label>
 				<label class="custom-control custom-radio">
-				  <input id="radio2" name="radio" type="radio" class="custom-control-input">
+				  <input id="radio2" name="radio" type="radio" class="custom-control-input" value="Tarde">
 				  <span class="custom-control-indicator"></span>
 				  <span class="custom-control-description">Tarde</span>
 				</label>
@@ -84,9 +84,9 @@
 
 				<div class="form-group">
 			    	<label for="exampleFormControlTextarea1">Mensagem</label>
-			    	<textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+			    	<textarea class="form-control" id="exampleFormControlTextarea1" rows="3" name="mensagem"></textarea>
 			  	</div>
-			  	<input type="hidden" name="tratamento" value="{espec_nome}">
+			  	<input type="hidden" name="tratamento" value="Página Contato">
 
 			  	<button type="submit" class="btn btn-primary">Enviar</button>
 
@@ -94,9 +94,7 @@
 		</div>
 	</div>
 </div>
-<<<<<<< HEAD
-</div>
-=======
+
 <div class="row justify-content-center ">
 	<div class="col-md-7 map-info">
 		<h2>Como chegar</h2>

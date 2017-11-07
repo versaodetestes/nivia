@@ -71,12 +71,12 @@
 				<div class="form-group">
 				<label>Período de preferência:</label><br>
 				<label class="custom-control custom-radio">
-				  <input id="radio1" name="radio" type="radio" class="custom-control-input" value="Manhã">
+				  <input id="radio1" name="hora" type="radio" class="custom-control-input" value="Manhã">
 				  <span class="custom-control-indicator"></span>
 				  <span class="custom-control-description">Manhã</span>
 				</label>
 				<label class="custom-control custom-radio">
-				  <input id="radio2" name="radio" type="radio" class="custom-control-input" value="Tarde">
+				  <input id="radio2" name="hora" type="radio" class="custom-control-input" value="Tarde">
 				  <span class="custom-control-indicator"></span>
 				  <span class="custom-control-description">Tarde</span>
 				</label>

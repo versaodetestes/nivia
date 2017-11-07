@@ -40,15 +40,15 @@ $emailbody = "
 </tr>
 <tr>
 	<td style='padding:3px;border-bottom:1px solid #E6E6E6;color:#2D2D2D;'>
-		<strong>Dia da semana:</strong>
-	</td>
-	<td style='padding:3px;border-bottom:1px solid #E6E6E6;color:#666666;'> $dia</td>
-</tr>
-<tr>
-	<td style='padding:3px;border-bottom:1px solid #E6E6E6;color:#2D2D2D;'>
 		<strong>Tratamento:</strong>
 	</td>
 	<td style='padding:3px;border-bottom:1px solid #E6E6E6;color:#666666;'>$tratamento</td>
+</tr>
+<tr>
+	<td style='padding:3px;border-bottom:1px solid #E6E6E6;color:#2D2D2D;'>
+		<strong>Dia da semana:</strong>
+	</td>
+	<td style='padding:3px;border-bottom:1px solid #E6E6E6;color:#666666;'> $dia</td>
 </tr>
 <tr>
 	<td style='padding:3px;border-bottom:1px solid #E6E6E6;color:#2D2D2D;'>

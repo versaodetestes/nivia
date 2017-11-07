@@ -38,7 +38,7 @@
 			<p>
 				Preencha o formulário abaixo com seus dados para que possamos entrar em contato
 			</p>
-			<form>
+			<form action="send-email.php" method="POST" role="form">
 			  <div class="form-group">
 			    <label for="nome">Nome*</label>
 			    <input type="text" class="form-control" id="nome" name="nome" aria-describedby="nomeHelp" placeholder="Digite seu nome">

@@ -77,7 +77,7 @@
 						<p>
 							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos consequatur nostrum eos, necessitatibus animi, corporis voluptatibus magnam cupiditate cum accusamus doloremque.
 						</p>
-						<a href="./especialidades/fisioterapia-pelvica" class="btn btn-primary">Como funciona o tratamento</a>
+						<a href="./especialidades/fisioterapia-pelvica.html" class="btn btn-primary">Como funciona o tratamento</a>
 					</div>
 				</div>
 		</div>

@@ -94,7 +94,7 @@
 						<p class="text-white">
 							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos consequatur nostrum eos, necessitatibus animi, corporis voluptatibus magnam cupiditate cum accusamus doloremque.
 						</p>
-						<a href="./sobre" class="btn btn-inverse">Saiba mais</a>
+						<a href="./sobre.php" class="btn btn-inverse">Saiba mais</a>
 						</div>
 					</div>
 				</div>
@@ -147,7 +147,7 @@
 		</div>
 		<div class="row text-center">
 			<div class="col-md-12">
-				<a href="./tratamentos" class="btn btn-primary">Veja todos os tratamentos</a>
+				<a href="./tratamentos.php" class="btn btn-primary">Veja todos os tratamentos</a>
 			</div>
 			
 		</div>
@@ -208,7 +208,7 @@
 		</div>
 		<div class="row text-center">
 			<div class="col-md-12">
-				<a href="./metodologias" class="btn btn-primary">Veja todas as metodologias</a>
+				<a href="./metodologias.php" class="btn btn-primary">Veja todas as metodologias</a>
 			</div>
 			
 		</div>

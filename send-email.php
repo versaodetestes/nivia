@@ -4,7 +4,7 @@ $tratamento = $_POST['tratamento'];
 $nome = $_POST['nome'];
 $email = $_POST['email'];
 $telefone = $_POST['telefone'];
-$dia = $_POST['dia'];
+$diasemana = $_POST['dia'];
 $mensagem = $_POST['mensagem'];
 $hora = $_POST['hora'];
 $autorizacao = $_POST['autorizacao'];
@@ -48,7 +48,7 @@ $emailbody = "
 	<td style='padding:3px;border-bottom:1px solid #E6E6E6;color:#2D2D2D;'>
 		<strong>Dia da semana:</strong>
 	</td>
-	<td style='padding:3px;border-bottom:1px solid #E6E6E6;color:#666666;'> $dia</td>
+	<td style='padding:3px;border-bottom:1px solid #E6E6E6;color:#666666;'> $diasemana</td>
 </tr>
 <tr>
 	<td style='padding:3px;border-bottom:1px solid #E6E6E6;color:#2D2D2D;'>

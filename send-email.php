@@ -97,7 +97,7 @@ $headers .= 'From: Site Nivia Vinhola <$email>';
  
 $enviaremail = mail($destino, $assunto, $emailbody, $headers);
 if($enviaremail) {
-	die("<script>location.href='https://nivia.pradoeprado.com/obrigado.php'</script>");
+	die("<script>location.href='http://nivia.pradoeprado.com/obrigado.php'</script>");
 }else {
 	echo "Erro ao enviar a mensagem";
 	header("location:http://nivia.pradoeprado.com");

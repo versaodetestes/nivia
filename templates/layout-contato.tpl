@@ -52,7 +52,7 @@
 
 			  <div class="form-group">
 			    <label for="telefone">Telefone*</label>
-			    <input type="tel" class="form-control" id="telefone" name="telefone" aria-describedby="emailHelp" placeholder="Digite seu e-mail">
+			    <input type="tel" class="form-control" id="telefone" name="telefone" aria-describedby="emailHelp" placeholder="Digite seu telefone">
 			    <small id="emailHelp" class="form-text text-muted">Nós nunca compartilhamos suas informações com terceiros.</small>
 			  </div>
 

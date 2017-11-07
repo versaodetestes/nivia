@@ -32,7 +32,7 @@
 			<p>
 				Preencha o formulário abaixo com seus dados para que possamos entrar em contato
 			</p>
-			<form>
+<form action="send-email.php" method="POST" role="form">
 			  <div class="form-group">
 			    <label for="nome">Nome*</label>
 			    <input type="text" class="form-control" id="nome" name="nome" aria-describedby="nomeHelp" placeholder="Digite seu nome">
@@ -46,16 +46,16 @@
 
 			  <div class="form-group">
 			    <label for="telefone">Telefone*</label>
-			    <input type="tel" class="form-control" id="telefone" name="telefone" aria-describedby="emailHelp" placeholder="Digite seu e-mail">
+			    <input type="tel" class="form-control" id="telefone" name="telefone" aria-describedby="emailHelp" placeholder="Digite seu telefone">
 			    <small id="emailHelp" class="form-text text-muted">Nós nunca compartilhamos suas informações com terceiros.</small>
 			  </div>
 
 				<div class="form-group">
 				<label>Dia da semana de preferência:</label>
-				<select class="form-control">
-				  <option selected>Selecione um dia</option>
-				  <option value="Manhã">Segunda</option>
-				  <option value="Segunda">Terça</option>
+				<select class="form-control" name="dia">
+				  <option selected value="dia não selecionado">Selecione um dia</option>
+				  <option value="Segunda">Segunda</option>
+				  <option value="Terça">Terça</option>
 				  <option value="Quarta">Quarta</option>
 				  <option value="Quinta">Quinta</option>
 				  <option value="Sexta">Sexta</option>
@@ -65,12 +65,12 @@
 				<div class="form-group">
 				<label>Período de preferência:</label><br>
 				<label class="custom-control custom-radio">
-				  <input id="radio1" name="radio" type="radio" class="custom-control-input">
+				  <input id="radio1" name="hora" type="radio" class="custom-control-input" value="Manhã">
 				  <span class="custom-control-indicator"></span>
 				  <span class="custom-control-description">Manhã</span>
 				</label>
 				<label class="custom-control custom-radio">
-				  <input id="radio2" name="radio" type="radio" class="custom-control-input">
+				  <input id="radio2" name="hora" type="radio" class="custom-control-input" value="Tarde">
 				  <span class="custom-control-indicator"></span>
 				  <span class="custom-control-description">Tarde</span>
 				</label>
@@ -78,7 +78,7 @@
 
 				<div class="form-group">
 			    	<label for="exampleFormControlTextarea1">Mensagem</label>
-			    	<textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+			    	<textarea class="form-control" id="exampleFormControlTextarea1" rows="3" name="mensagem"></textarea>
 			  	</div>
 			  	<input type="hidden" name="tratamento" value="{espec_nome}">
 

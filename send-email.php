@@ -92,7 +92,7 @@ $assunto = "Agendamento de Consulta - $tratamento";
 // É necessário indicar que o formato do e-mail é html
 $headers  = 'MIME-Version: 1.0' . "\r\n";
 $headers .= 'Content-type: text/html; charset=utf-8' . "\r\n";
-$headers .= 'From: Site Nivia Vinhola <$email>';
+$headers .= 'From: Site Nivia Vinhola <igor@pradoeprado.com>';
 //$headers .= "Bcc: $EmailPadrao\r\n";
  
 $enviaremail = mail($destino, $assunto, $emailbody, $headers);

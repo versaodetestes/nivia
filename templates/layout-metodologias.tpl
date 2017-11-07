@@ -6,7 +6,7 @@
 				<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br>
 				Eveniet quidem mollitia reiciendis, ullam facilis.</p>
 
-				<a href="./contato" class="btn btn-primary">Agende uma avaliação</a>
+				<a href="./contato.php" class="btn btn-primary">Agende uma avaliação</a>
 			</div>
 		</div>
 	</div>
@@ -27,7 +27,7 @@
 
 				     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
 				   
-				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
+				    <a href="metodologia/fisioterapia-pelvica.php" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
 				  </div>
 				</div>
 			</div>
@@ -39,7 +39,7 @@
 
 				     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
 
-				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
+				    <a href="metodologia/fisioterapia-pelvica.php" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
 				  </div>
 				</div>
 			</div>
@@ -51,7 +51,7 @@
 
 				     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
 
-				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
+				    <a href="metodologia/fisioterapia-pelvica.php" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
 				  </div>
 				</div>
 			</div>
@@ -63,7 +63,7 @@
 
 				     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
 
-				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
+				    <a href="metodologia/fisioterapia-pelvica.php" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
 				  </div>
 				</div>
 			</div>
@@ -75,7 +75,7 @@
 
 				     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
 
-				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
+				    <a href="metodologia/fisioterapia-pelvica.php" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
 				  </div>
 				</div>
 			</div>
@@ -86,7 +86,7 @@
 				    <h4 class="card-title">Terapia Comportamental</h4>
 
 				     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
+				    <a href="metodologia/fisioterapia-pelvica.php" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
 
 				  </div>
 				</div>
@@ -98,7 +98,7 @@
 				    <h4 class="card-title">Treinamento funcional</h4>
 
 				     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-				    <a href="#" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
+				    <a href="metodologia/fisioterapia-pelvica.php" class="btn btn-primary btn-card">Veja sintomas e tratamentos</a>
 
 				  </div>
 				</div>

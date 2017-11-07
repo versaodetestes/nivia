@@ -5,7 +5,7 @@
 				<h1>Tratamentos</h1>
 				<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br>
 				Eveniet quidem mollitia reiciendis, ullam facilis.</p>
-				<a href="./contato" class="btn btn-primary">Agende uma avaliação</a>
+				<a href="./contato.php" class="btn btn-primary">Agende uma avaliação</a>
 			</div>
 		</div>
 	</div>

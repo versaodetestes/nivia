@@ -4,7 +4,7 @@
 			<div class="hero-info">
 				<h1>Fisioterapia Pélvica</h1>
 				<p class="lead">Tratamento e prevenção de disfunções da região pélvica sem cirurgia</p>
-				<a href="./contato" class="btn btn-primary">Agende uma avaliação</a>
+				<a href="./contato.php" class="btn btn-primary">Agende uma avaliação</a>
 			</div>
 		</div>
 	</div>

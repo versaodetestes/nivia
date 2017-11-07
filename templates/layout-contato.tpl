@@ -58,8 +58,8 @@
 
 				<div class="form-group">
 				<label>Dia da semana de preferência:</label>
-				<select class="form-control">
-				  <option selected>Selecione um dia</option>
+				<select class="form-control" name="dia">
+				  <option selected value="dia não selecionado">Selecione um dia</option>
 				  <option value="Segunda">Segunda</option>
 				  <option value="Terça">Terça</option>
 				  <option value="Quarta">Quarta</option>
